@@ -50,7 +50,13 @@ or
 python game.py
 ```
 
-Depending on which team you are working: "network.py" is for team 1 and "game.py" is for team 2.
+or
+
+```bash
+python bot.py
+```
+
+Depending on which team you are working: "network.py" is for team 1 and "game.py" is for team 2. "bot.py" is the final version merged from "network.py" and "game.py".
 
 You can also use [nodemon](https://www.npmjs.com/package/nodemon "Nodemon's Homepage") to run the bots. Simply use:
 
